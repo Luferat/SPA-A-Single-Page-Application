@@ -21,6 +21,7 @@ html, body, .wrap {
     margin: auto;
 }
 
+/* 
 header {
     background: #000000;
     color: #ffffff;
@@ -53,6 +54,17 @@ header small {
     -webkit-text-stroke: 0;
     margin-top: -0.25rem;
     color: #ffffff;
+}
+*/
+
+header {
+    height: 5rem;
+    background-image: url('/img/header.png');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size:auto;
+    background-color: purple;
+    background-position: center;
 }
 
 nav {
