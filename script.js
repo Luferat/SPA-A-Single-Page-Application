@@ -7,7 +7,7 @@ let siteSlogan = 'A Single Page Application';
 function runApp() {
 
     // Carrega a página inicial:
-    getPage('home');
+    // getPage('home');
 
     // Monitora cliques nos links:
     $('a').click(getRoute);
