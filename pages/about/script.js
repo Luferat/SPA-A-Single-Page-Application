@@ -8,7 +8,7 @@ function runPage() {
     setTitle(pageTitle);
 
     // Faz alguma coisa inútil só para testar:
-    console.log('aboutinho');
+    console.log(pageTitle);
 }
 
 // Executa o aplicativo desta página:
